@@ -1,5 +1,6 @@
 # 吉里吉里SDL2
 
+<a href="README.zh_CN.md">中文readme</a><br/>
 吉里吉里SDL2は、macOSやLinuxなど、[SDL2](https://www.libsdl.org/)をサポートするプラットフォームで実行できる[吉里吉里Z](https://krkrz.github.io/)の移植版です。  
 
 このプログラムは、KAG（吉里吉里アドベンチャーゲーム）3の変更バージョンと共に使用できます。  
